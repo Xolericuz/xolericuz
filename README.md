@@ -38,8 +38,8 @@ I build **character-driven systems**, not just code.
 ---
 
 ## 🌐 Connect with Me
-- 💬 Telegram: https://t.me/xolericoff
-- 📸 Instagram: https://instagram.com/99core_
+- 💬 Telegram: https://t.me/cvants
+- 📸 Instagram: https://instagram.com/cvant23
 - 🧑‍💻 GitHub: https://github.com/devxoleric
 
 ---
