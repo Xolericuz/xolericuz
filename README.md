@@ -38,7 +38,7 @@ I build **character-driven systems**, not just code.
 ---
 
 ## 🌐 Connect with Me
-- 💬 Telegram: https://t.me/cvants
+- 💬 Telegram: https://devxoleric.github.io/open-telegram/ 
 - 📸 Instagram: https://instagram.com/cvant23
 - 🧑‍💻 GitHub: https://github.com/devxoleric
 
