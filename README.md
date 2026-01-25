@@ -1,6 +1,6 @@
 # 👋 Hi, I'm devxoleric
 
-🧠 Independent Developer | 💻 Web & Interactive Systems | 🕶 Dark / Cyber Style
+🧠 Independent Developer | 💻 Web & Interactive Systems | 🕶 
 
 ---
 
@@ -45,4 +45,4 @@ I build **character-driven systems**, not just code.
 ---
 
 ## 🕯 Philosophy
-> **"Code is not text — it's behavior."** 
+> **"Wake Up."** 
