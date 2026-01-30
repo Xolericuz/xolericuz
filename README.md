@@ -262,7 +262,7 @@ graph TD
 ```
 
 ### 📊 Monthly Contribution Analysis
-![Monthly Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=xoleric&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff)
+![Monthly Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=xolericuz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff)
 
 ### 🎖️ Professional Badges
 <table>
