@@ -9,12 +9,6 @@
 ### 🔥 Contribution Consistency
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xolericuz&theme=github-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=FFFFFF&stroke=00FF41)
 
-### 🏆 Achievement Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=xolericuz&theme=matrix&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
-
-</div>
-
----
 
 ## 🏗️ Enterprise-Grade Projects
 
