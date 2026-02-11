@@ -99,31 +99,6 @@ tools:
 
 ## 🎯 Core Competencies
 
-<div align="center">
-
-### 🏗️ Architecture & Design
-![Architecture](https://progress-bar.dev/95/?title=System+Architecture&width=400&color=00ff41)
-![Design Patterns](https://progress-bar.dev/90/?title=Design+Patterns&width=400&color=00cc00)
-![Scalability](https://progress-bar.dev/98/?title=Scalability&width=400&color=00aa00)
-
-### 💻 Development
-![Backend](https://progress-bar.dev/97/?title=Backend+Development&width=400&color=00ff41)
-![Frontend](https://progress-bar.dev/88/?title=Frontend+Development&width=400&color=00cc00)
-![Mobile](https://progress-bar.dev/85/?title=Mobile+Development&width=400&color=00aa00)
-
-### ☁️ DevOps & Cloud
-![Kubernetes](https://progress-bar.dev/92/?title=Kubernetes&width=400&color=00ff41)
-![AWS](https://progress-bar.dev/89/?title=AWS&width=400&color=00cc00)
-![Docker](https://progress-bar.dev/96/?title=Docker&width=400&color=00aa00)
-
-### 🔒 Security
-![AppSec](https://progress-bar.dev/91/?title=Application+Security&width=400&color=00ff41)
-![Cryptography](https://progress-bar.dev/87/?title=Cryptography&width=400&color=00cc00)
-![Compliance](https://progress-bar.dev/84/?title=Compliance&width=400&color=00aa00)
-
-</div>
-
----
 
 ## 🌐 Professional Network
 
