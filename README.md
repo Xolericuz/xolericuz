@@ -1,7 +1,7 @@
 
 # I'm Xoleric
 
-**Men dasturchi emasman shunchaki qiziqishlarim test qiliaman
+**Men dasturchi emasman shunchaki qiziqishlarim test qiliaman**
 ---
 
 
